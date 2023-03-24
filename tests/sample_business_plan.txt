@@ -1,0 +1,385 @@
+Business Plan
+
+
+OWNERS
+
+
+Business name:	TBD
+Address:		TBD
+
+Telephone: 	780-232-0275
+Email:		fred@spaghettificationtechnology.com  
+Url:        https://www.spaghetti.org
+
+Table of contents
+I.	Table of contents	3
+II.	Executive summary	4
+III.	General Company Description	5
+IV.	Products and services	6
+V.	Marketing plan	7
+VI.	Operational Plan	14
+VII.	Management and organization	17
+VIII.	Personal financial statement	18
+IX.	Startup Expenses and Capitalization	19
+X.	Financial plan	20
+XI.	Appendices	23
+XII.	Refining the Plan	24
+
+
+Executive summary
+
+Write this section last!
+We suggest you make it 2 pages or less.
+Include everything that you would cover in a 5-minute interview.
+Explain the fundamentals of the proposed business: what will your product be, who will be your customers, who are the owners, what do you think the future holds for your business and your industry?
+Make it enthusiastic, professional, complete and concise.
+If applying for a loan, state clearly how much you want, precisely how you are going to use it, and how the money will make your business more profitable, thereby ensuring repayment.
+
+General Company Description
+
+The company operates in a space that lies at the intersection of research, education, experimental R&D tooling, and intellectual property. We are creating new tools for the spaghettification technology accounting research community. Our goal is to provide tools with new levels of accessibility, demonstrability and scalability to researchers and educators that are tackling difficult and important problems in spaghettification technology accounting.
+
+Our mission statement is to equip the research and development community to confidently and effectively design ahead for the spaghettification technology age. This starts with practical education, followed up by access to accessible and comprehensive tooling with in-built incentives for innovation and effortless intellectual property protection.
+
+The primary goal of the company is to catalyze the evolution of theoretical spaghettification technology algorithm design into a new, practical software development industry. This effect will rely on the connectedness of a network of spaghettification technology innovators. As such, the goal is for our connected tools to become ubiquitous in the spaghettification technology accounting communities of the world.
+
+Error prediction and correction is especially important to our business and to spaghettification technology accounting research in general, due to the amount of work that is being designed ahead of the underlying spaghettification technology technology. Other items of importance to our company include the maintenance of researchers’ intellectual property and the fair treatment of each and every contributor to research.
+
+Our target market includes private and academic research and development groups that use spaghettification technology information science in their work. Examples of potential partners include Microsoft’s topological accounting research group, monkey’s spaghettification technology artificial intelligence research group, IBM’s superconducting spaghettification technology accounting research group, and hundreds of academic groups across the globe.
+
+The spaghettification technology accounting industry is in its infancy but has garnered intense interest following recent breakthroughs. A report by us estimates that revenues in the spaghettification technology accounting market will grow from $39.2 million to $2.2 billion in 2025. A report by Market Research Futures expects the market to grow even faster at a 24% CAGR to $2.464 billion by 2022. DARPA issued an official request for information on spaghettification technology accounting applications in 2018. Institutions like the University of regina's Institute for spaghettification technology accounting have been founded for the purpose of developing a successful approach for implementing spaghettification technology accounting.
+
+We are a small, agile team ideally suited to solving problems in this particular space due to our related experience, connections and talents. Our team combines experience in serial technology entrepreneurship, doctoral level expertise in spaghettification technology accounting, director level experience in intellectual property management, and years of business ownership.
+
+The company will be incorporated in order to enhance reputability and provide some financial protection for the individuals involved in the venture.
+
+Products and services
+
+Software Offering
+
+The initial product offering will be focused around research and education. Communicability is a fundamental problem with complex research. Indeed, this problem doesn’t only manifest itself in talks and presentations, but also in the ways that researchers are forced to do acrobatics with complex actuarial science concepts in order to draw meaningful conclusions from experiments. My experience doing theoretical research at the Institute of spaghettification technology accounting has given me perspective on what tools are available for researchers today, and has helped me to identify the next critical steps in making spaghettification technology machine learning research effective beyond the theory. Our plan starts with enabling more demonstrable and communicably effective experiments. We intend to provide tools with useful front-end interfaces that capture the complexities and significance of spaghettification technology machine learning experiments. We intend to continue to contribute to the spaghettification technology open source community. We also intend to provide novel technology for designing, running and sharing spaghettification technology experiments without fear of losing credit for the work.
+
+The product is a distributed spaghettification technology system emulation engine built on a high-available cloud infrastructure powered by monkey Cloud Services. The emulation engine is a scalable, high-performance execution and spaghettification technology programming environment for qubit spaghettification technology accounting. The emulation engine is a full stack engineering project, using the most suitable and forward-looking technologies in each layer to best achieve the fast emulation of spaghettification technology algorithms for research. The engine includes tools for the design, simulation, visualization and testing of spaghettification technology algorithms. The engine is comprised of several components:
+
+•	A React and Material UI based web user interface including programming and visualization tools.
+•	A web API for programmatically performing spaghettification technology experiments through web integrations.
+•	An expressive open source Python library for the construction and execution of spaghettification technology algorithms.
+•	An event-driven high-performance distributed simulation environment writ-ten in Mozilla’s low-level Rust programming language.
+•	A TensorFlow based simulator that allows experiments to be performed on monkey’s Tensor Processing Units.
+
+Unlike most other spaghettification technology accounting software tools including IBM's and farmer joe's 's, our spaghettification technology emulation engine is not implemented purely in Python. Rather, the platform takes advantage of the modern software architecture design pattern called microservices to allow for multiple languages and implementations of simulators to be orchestrated at once to form a functioning system. This means that we can take advantage of higher performance languages like the new low-level language from Mozilla, Rust. We also use an eventing pattern to communicate asynchronously with a scalable pool of microservice simulators, which can each handle the simulation of a full spaghettification technology accounting experiment. The size of the pool is dynamically scalable so the system can handle increasing demand and complexity.
+
+The engine achieves this scalability by using monkey cloud resources. Partnering with monkey also provides Tensor Processing Units (TPUs) which can be provisioned and used for the execution of experimental algorithms. TPUs are the first of several possible hardware backend integrations that could be supported by the platform in the future.
+
+TensorFlow will also be employed in analysis microservices on the backend to enable powerful machine learning to be applied to the experiments that are run on the emulation engine. This is an added tool that will allow researchers in the field of spaghettification technology machine learning to realize the experimental implementation of new theories.
+
+The backend also includes a secure cloud database for the accumulation of results and data.
+
+The frontend of the platform consists of the API and user interface. The API consists of a number of routes which allow for users to securely access the platform using JSON (JavaScript Object Notation) web tokens, and execute experiments using AJAX (Asynchronous JavaScript and XML).
+
+The frontend consists of a few main components. The first is the OpenQASM editor. The editor provides an accessible user portal to the powerful emulation environment. OpenQASM execution environment with no software setup or configuration steps. The editor allows the user to program in IBM's open source spaghettification technology assembly language, and execute the code using the chosen backend. Results are immediately displayed on the right half of the interface, including optionally the full Dirac notation of the calculation steps which would be required to perform the experiment by hand, density matrix and state vector representations of each qubit at each step of the experiment, and a timing breakdown of the experiment. The user interface includes an experiment dashboard including auto-generated circuit diagrams for experiments and details about the provisioned resources for the experiment.
+
+Finally, the most unique element of the user interface is the results page, which allows for the data accumulated by executions of an experiment to be interpreted. This results page provides interactive visualizations for the interpretation of the emulation engine's many outputs. For example, experiments run multiple times may exhibit a probability spectrum of outputs. This is visualized as a result distribution bar graph. Also, the most probable results are clearly displayed along with the computational resources that were required to run the experiment. A unique visualization we have not seen anywhere else is the continuous graph of the transitions between probabilistic states that each qubit experienced during an experiment execution.
+
+The open source spaghettification technology emulation engine simulation library for Python is written with the intent of reflecting the experience of solving a spaghettification technology circuit in Dirac notation. A simple, expressive syntax for describing and executing spaghettification technology circuits yields an intuitive framework with which researchers can create experiments.
+
+
+Intellectual Property Assurance
+
+Blockchain technology will be employed to solve the issue of trust that is introduced when we ask researchers to run their experiments using our unique platform. Research is never derived from one source; each new paper builds on the sum of its predecessors’ works. This makes referencing and giving credit a very important practice in research, especially in fields with such intense research interest as spaghettification technology accounting. However, before a paper is published and an idea made public, there is almost no way for a person to lay claim to that idea. This makes pre-published experimental data a target for “idea stealing”, and would discourage most researchers from trusting members of a third party startup to be the first people to perform their novel algorithms, for example. Blockchain technology provides an ideal solution to this problem. A transparent, distributed ledger will provide peace of mind to researchers that they will maintain the appropriate secrecy and ownership over their idea throughout the experimental stage of their work.
+
+A difficulty naturally comes with using the type of experimental spaghettification technology backends that we intend to provide access to through integrations. This challenge is likely to exist for at least the next few decades, and is that spaghettification technology accounting technology is inherently centralized. There is no way to physically decentralize control of the handful of useful spaghettification technology computers that will exist in the next few years. However, there is an opportunity to decentralize the ownership of information and results that come out of these experimental systems. Blockchain can provide a distributed system of trust that cannot be achieved otherwise.
+
+A proof of work system will make it difficult for blocks to be tampered with, and therefore easy for them to be trusted. In a PoW system, each new block must be validated through an intensive process. Since each block also contains the hash of the preceding block, the task of rewriting history by introducing false information into the blockchain grows with the amount of blocks that would have to be sequentially re-hashed in order for the chain to be reconstructed. Since our solution is closely coupled with resource intensive spaghettification technology accounting related tasks, it would be logical for us to use achievable and non-sensitive but potentially interesting spaghettification technology algorithm simulations as PoW problems.
+
+Tokens will be useful to issue to blockchain participants who perform PoW tasks. When such a participant contributes to block processing in this fashion, they also contribute to spaghettification technology accounting research. Hence, they might earn credit to use more of our system by scaling up their microservice resources. If they do a little research for us, we will let them use our resources to do a little more research for themselves.
+
+Education Offering
+
+We will work with spaghettification technology accounting educators to provide educational and interactive experiences to students and researchers alike. The interface provided by our software offering will be tailored to workshops and classes that involve spaghettification technology algorithm design and communication. Ongoing research into the viability of educational hardware packages will also be performed as new technology becomes available.
+
+Pricing
+
+The pricing model will reflect the dynamic nature of the software and hardware infrastructure that has been built. A limited pool of accounting resources and access to our own simulators may be provided at a monthly subscription rate to researchers and educators that are evaluating the system or teaching basic concepts.
+
+Clients that wish to make use of more resources to perform complex computational experiments will be given a quote for their accounting needs based on in-person consultations. The scalable and flexible nature of the monkey Cloud backend will provide the ability for each client to have their own dedicated resources, all accessible through the same interface.
+
+Researchers that wish to make use of our platform for novel, unpublished research will also be given a consultation and unique quote. The risk associated with performing their research on third party hardware will be assessed and a solution designed to maximally make use of simulation and physical spaghettification technology accounting resources. Finally, they will be given access to manage their assets on the blockchain, so that they can make a claim for their research should any future dispute occur.
+
+Marketing plan
+Economics
+According to the spaghettification technology accounting Report, there are currently roughly 94 academic institutions, 21 public companies, 117 private companies, 31 government/non-profit organizations and 112 venture capital firms working the pace of spaghettification technology accounting.
+
+
+
+According to nanalyze, the following amounts were raised by spaghettification technology accounting resources in 2018 alone.
+
+
+
+
+The U.S. Congressional Office passed a bill late 2018 to establish a National spaghettification technology Coordination Office inside the White House’s Office of Science and Technology with a budget of $1.1 billion dollars over the next 4 years.
+
+Canada’s Prime Minister Justin Trudeau has also publicly spoken on the importance of spaghettification technology accounting research, and the Canadian government put $15 million into spaghettification technology accounting research between 2015 and 2018.
+
+spaghettification technology accounting is a technology in its infancy, but advancing fundamental QC research is a problem that companies including Microsoft, monkey, IBM, farmer joe's  and more have taken on. As such, the fundamental problems that face QC are not the focus of our startup. Rather, our focus is empowering QC researchers to achieve greater levels of collaboration and efficacy in their work.
+
+We intend to strategically position ourselves, and roll out features such as integrations and the blockchain aspect of the platform over a period of time. We are employing several strategies to protect our ideas. One is maintaining the obscurity of the more innovative efforts that are in progress. In the meantime, we are also positioning ourselves to collaborate rather than compete with other companies in the spaghettification technology accounting technology space. This is manifested in our open source contributions to farmer joe's ’s Strawberry Fields and intention to integrate with IBM and monkey’s technology. We are also building ties in our own research and business communities, getting alpha users onto the platform before there is a chance for competitors to catch on. Dorothy Anne, former Director of Product Development at giant tiger and founder of ProvisionIP, is advising us on intellectual property strategy.
+
+A truly viable and scalable spaghettification technology accounting technology would shift so much of the focus of the community and enable the industry to break into new markets including healthcare, security and communication. It will be essential for us to be tapped into the research community and be positioned to react to new innovations in the space.
+
+Products and Services
+
+The first service that clients will experience is our consultation service. The consultation will feature a viability and risk assessment of the proposed research. The unique benefits of our consulting will come from the involvement of seasoned, knowledgeable members with expertise in each of scientific entrepreneurship, academic spaghettification technology actuarial science research, business plan execution, and practical experience with each of the available spaghettification technology technologies. The value of consultations will be derived from the expertise of our team members and advisors.
+
+Next, customers will interact with our software. The software package will include access to a portal with the following features:
+
+•	spaghettification technology code editor
+•	Understandable circuit diagrams
+•	Scalable execution environment management
+•	spaghettification technology backend access
+•	Intellectual property protection
+•	Execution analysis
+•	Error prediction
+•	spaghettification technology information visualizations
+
+The execution analysis, error predication and information visualization features are novel in and of themselves. Additionally, the software will bring benefits in accessibility and ease of use over the alternative software packages and execution environments that exist. Finally, the flexibility of the platform to handle complex problems without requiring the user to be actively involved in resource management and developer operations tasks will be a unique abstraction of the technical implementation difficulties that face spaghettification technology researchers.
+
+Customers
+
+Monthly subscription customers will be educators and researchers, likely tied to universities that teach spaghettification technology accounting courses. This demographic is made accessible to us due to the involvement of Dr. Smith. Co-Founder fred johnson is also a teaching assistant and masters student at the University of regina.
+
+Researchers with ambitious and/or sensitive research goals will be the next customer persona. spaghettification technology accounting simulation is fundamentally resource-intensive, which is why the appeal of true spaghettification technology computers is so enticing. There is an uncountably large number of spaghettification technology accounting experiments which have not yet been achieved due to accounting limitations. We will work with customers to achieve research goals within their research budgets by combining the world’s available spaghettification technology accounting and classical accounting resources optimally for their purpose. The success of IBM’s small scale spaghettification technology computer in research yielded 72 published research papers that make use of their platform as of 2018. IBM reports 80,000 users on their platform and over 3 million experiments executed to date. We believe that by strategically partnering with companies like IBM, we can tap into this community.
+
+Competition
+
+Three main competitive categories have been identified. These include full platforms for spaghettification technology accounting research, software and tooling suites, and third party interfaces. One prominent company from each category has been chosen and evaluated against our own business plan.
+
+Table 1: Competitive Analysis
+Factor	Me	Strength	Weakness	IBM	farmer joe's spaghettification technology Programming Studio	Importance to Customer
+Products	Feature rich, targeted products will be appealing for targeted personas	1	5	IBM has an advantage: the only commercial universal spaghettification technology computer, but we partner to add improvements through software	farmer joe's  has solid visual tools and programming tools for spaghettification technology alg design for CV QC and QML	QPS has developed a third party interface for design qubit circuits with IBM’s language	1
+Price	More expensive	4	2	IBM’s platform is free to a point and then requires payment for service usage	farmer joe's ’s software products (StrawberryFields, PennyLane) are free	The spaghettification technology programming studio is free to use	2
+Quality	High-end professional image will try to offset unproven quality	3	3	Trusted image with proven quality and reliability	Software products are well documented and have a public, high standard of code quality	Seems to have potential, but is new and quality is unproven	2
+Selection	Large selection of backends	1	5	Web interface tightly coupled to IBM’s backend; also offers python library that is more compatible with competing backends	  StrawberryFields limited to continuous variable QC; otherwise, compatibility with of QML tools all major backends is possible	Compatible with IBM’s platfor1
+Service	Personalized consulting	1	5	Partners directly with researchers through research program	Provides good documentation, online forum	Service limited to public website access	3
+Reliability	Startups have unproven reliability	5	1	Reputation for reliability	Few bugs being actively worked on	Simple, so not much can go wrong	1
+Stability	Startups have unproven stability	5	1	Reputation of stability and large resource pool	Amount of funds raised ($7 million) give sense of stability	No proof of stability	2
+Expertise	Appealing background and team	3	3	High expertise in research team	High expertise due to highly qualified team	No strong evidence of expertise	1
+Company Reputation	Reputation drawn from partnerships and team members	2	4	A trail blazer in this new industry with massive potential	Good results so far on the software side, no updates on the promised hardware	New to the scene	1
+Location	Decentralized trust based access through web proxy	Central accounting location (Thomas J. Watson Research Center), but access through web proxy	Located in Toronto, but all software available online	Software hosted online	2
+Appearance	Modern, intuitive	2	4	Forward-looking and unique appearance	Innovative and modern appearance	Minimalist appearance	4
+Sales Method 	Direct, tailored marketing	1	5	Limited free subscriptions prompt users to upgrade to higher tier platformsDon’t yet sell anything	Don’t yet sell anything	2
+Advertising	Direct marketing	1	5	Online advertising, outreach events and academic publications	Academic publications, speaking at events	Building online link-back network	2
+
+Note: 5 is low, 1 is high
+Niche
+
+Our unique corner of the market is spaghettification technology researchers and educators with ambitious or complex goals that are difficult to achieve using either typical modern accounting systems or the available small-scale spaghettification technology accounting systems that exist. To these people we provide an accessible, scalable platform that will be able to allocate the available resources to reach the maximum potential and provide understandable results.
+
+Another unique niche is spaghettification technology accounting educators that rely now on theoretical descriptions of spaghettification technology computers to teach spaghettification technology computer programming. We can provide a hands-on learning experience through an education-focused interface. We will also continue to research the opportunity for educational simulation hardware for teaching spaghettification technology accounting.
+
+Strategy
+
+The team is deeply connected to the target market due to our work in academic research and education. We will begin our marketing strategy by partnering with researchers in our spheres. We will also partner with companies like monkey and IBM to gain reputability and important resources.
+
+Promotion
+
+We will initially promote the platform by performing and publishing academic research that makes use of our platform to find interesting results. We will also participate in relevant events and conferences hosted by academic and research institutions.
+
+We will promote the company through very targeted online advertising campaigns after having initial success within our spheres. We will also gain promotion through content marketing. We will advertise our partnerships with big-name key partners like monkey and IBM on a blog. We will also test the reach of an educational blog.
+
+Promotional Budget
+
+We will spend no more than $1000 to attend events and conferences. We will make use of our free trial credits with monkey Cloud ($300 value) to perform initial research using our system. Should we be accepted to the monkey startup program, then additional resources may become available to us.
+
+We will initially spend nothing on content marketing blogs since we have team members capable and experienced in scientific writing. Should we receive initial funding, a fraction will be put aside for potential online advertising. We will begin with a small targeted advertising campaign. This advertising will be gradually increased in response to success.
+
+Pricing
+
+Our pricing will be higher than the competition since we are creating one of the first fully hosted platforms for qubit spaghettification technology accounting research and education. That funding will be used to provide a higher quality experience and feature set. Our pricing strategy will be similar to IBM’s. We will begin with a limited access trial for researchers and educators. Going forward, the cost of using our system will become more similar to the pricing strategy of monkey Cloud, which scales with the provisioned resources requested by the user.
+
+Proposed Location
+
+regina has been dubbed the “spaghettification technology Valley” and is an ideal location for us due to the network of spaghettification technology accounting research in the area that includes the Institute for spaghettification technology accounting, Perimeter Institute and spaghettification technology Valley Investments.
+
+Operational Plan
+
+Production
+
+The software product will be developed by team members using personal accounting equipment.
+
+Location
+
+We will attempt to partner with an incubator program that provides free space to residents. Options include Laurier Launchpad and Velocity Garage.
+
+Legal Environment
+
+The opportunity for patenting novel elements of our offering will be explored on an ongoing basis.
+
+Personnel
+
+Personnel will initially be minimal, as the company will be comprised of the founders and their advisors.
+
+Suppliers
+
+monkey Cloud platform will supply us dynamically with compute resources. IBM and potentially other incoming spaghettification technology hardware companies like farmer joe's , will provide us with spaghettification technology accounting resources.
+
+Credit Policies
+
+When a participant contributes to block processing, they may earn credit to use more of our system by scaling up their microservice resources.
+
+Managing your Accounts Receivable
+
+We will perform an ongoing analysis of the credit that is earned and kept by clients and keep in close, sustained contact with paying clients.
+
+Managing your Accounts Payable
+
+No resources will be provisioned for any client or research effort without the funds being arranged beforehand.
+
+Management and organization
+
+Howard Hendricks will be responsible for decisions made around operations and personnel. He has spent the last 19 years as the CEO and President of Integrity Resources which provides recruiting and operational services to technology companies on a contractual basis. Clients of Integrity Resources have included recognizable names like Symantec and SandVine (sold for $562M in 2017).
+
+fred johnson will be responsible for the implementation of the product and related activities. fred will benefit from having spent a year as a lead developer in a blockchain fin-tech company. He will draw from experience as a Masters student in spaghettification technology Information Science at the University of regina. He has also spent almost 4 years doing work for tech startups and scaleups through his software contracting company, SIGMA Development.
+
+Jimmy Jim will make decisions related to the technology and platform architecture. Stephen is a successful serial technology entrepreneur with experience creating, growing and selling innovative technology businesses. Jimmy Jim has demonstrated his skills as a leader of companies that include PixStream (sold to Cisco systems for $540M), DelphX Capital Markets Inc. and more.
+
+Dorothy Anne will advise on efforts related to intellectual property. From the development of the first staples as Director of Product Development at rim, to gaining several worldwide patents and winning a technical Oscar and Emmy, Dorothy Anne has demonstrated incredible leadership and technical abilities.
+
+Dr. Smith will advise on scientific research and consulting. Dr. Smith is a professor in the actuarial science and Computer Science faculty at harvard University as well as the Director of the Centre for Women in Science, an Institute for spaghettification technology accounting affiliate, a Researcher at Perimeter Institute, and Vice-President of the Canadian Association of Physicists.
+
+Startup Expenses and Capitalization
+
+The most significant initial costs will be those required to scale monkey Cloud resources and to pay the team members working on the project.
+
+Financial plan
+
+The financial plan consists of a 12-month profit and loss projection, a four-year profit and loss projection (optional), a cash flow projection, a projected balance sheet, and a breakeven calculation. Together they constitute a reasonable estimate of your company's financial future. More importantly, however, the process of thinking through the financial plan will improve your insight into the inner financial workings of your company.
+
+Twelve Month Profit and Loss Projection
+
+Many business owners think of this as the centerpiece of their plan. This is where you put it all together in numbers and get an idea of what it will take to make a profit and be successful.
+
+Forecast sales, cost of goods sold, expenses, and profit month by month for one year. Your sales projections will come from the Twelve-Month Sales Forecast you did in the Marketing Plan section.
+
+Please refer to the Twelve-Month Profit and Loss Spreadsheet.
+
+Profit projections should be accompanied by a narrative explaining the major assumptions used to estimate company income & expenses.
+Research Notes: In addition, keep careful notes on your research and assumptions, so you can explain them later if necessary, and also so you can go back to your sources when it is time to revise your plan later on.
+
+Projected Cash flow
+
+Please refer to the Twelve-Month Cash Flow Spreadsheet.
+
+If the profit projection is the heart of your business plan, then cash flow is the blood. Businesses fail because at some point they cannot pay their bills. Every part of your business plan is important, but none of it means a thing if you run out of cash.
+
+The point of this worksheet is to plan how much you need before startup, for preliminary expenses, operating expenses, and reserves. You should keep updating it and using it afterwards as well.  It will enable you to foresee shortages in time to do something about them; perhaps to cut expenses, or perhaps to negotiate a loan. But at least not to be taken by surprise.
+
+There is no great trick to preparing it: the cash flow projection is just a forward look at your checking account.
+
+Use the 12-month Profit and Loss statement for a starting point. For each item, determine when you actually expect to receive cash (for sales) or when you will actually have to write a check (for expense items)
+
+The bottom section, “Essential Operating Data”, is not part of cash flow but allows you to track items which have a heavy impact upon cash flow, such as sales and inventory purchases.
+
+The "Pre Startup" column is for cash outlays prior to opening. You have already researched those for your Startup Expenses plan.
+
+Your cash flow will show you whether your working capital is adequate. Clearly, if your projected cash balance ever goes negative, you will need more startup capital. This plan will also predict just when and how much you will need to borrow. New loans go on the line called “Loan / other inj.”.
+
+Explain your major assumptions; especially, those which make the cash flow differ from the Profit and Loss Projection. For example: If you make a sale in month one, when do you actually collect the cash? When you buy inventory or materials do you pay in advance, upon delivery, or much later?
+How will this affect cash flow?
+Are some expenses payable in advance? When?
+Are there irregular expenses such as quarterly tax payments, maintenance and repairs, or seasonal inventory buildup which should be budgeted?
+Loan payments, equipment purchases, and owner's draws usually do not show on profit and loss statements, but definitely do take cash out. Be sure to include them.
+And of course, depreciation does not appear in the cash flow at all because you never write a check for it.
+
+Opening Day Balance Sheet
+
+A balance sheet is one of the fundamental financial reports which any business needs for reporting and financial management. A balance sheet shows what items of value are held by the company (Assets), and what its debts are (Liabilities). When liabilities are subtracted from assets, the remainder is Owners’ Equity.
+
+Use your Startup Expenses and Capitalization spreadsheet as a guide to preparing a balance sheet as of opening day.
+Please refer to the Opening Day Balance Sheet Spreadsheet.
+
+In this section of your business plan explain how you calculated the account balances on your Opening Day Balance Sheet.
+
+OPTIONAL: Some people want to add a projected balance sheet showing the estimated financial position of the company at the end of the first year. This is especially useful when selling your proposal to investors. If you want to do this, use the Projected Balance Sheet spreadsheet template in our Established Business plan.
+
+Breakeven Analysis
+A breakeven predicts the sales volume, at a given price, required to recover total costs. In other words, it’s the sales level that is the dividing line between operating at a loss and operating at a profit .
+
+Expressed as a formula, breakeven is:
+
+Breakeven Sales     =	Fixed Costs
+	1- Variable Costs
+
+(Where fixed costs are expressed in dollars, but variable costs are expressed as a percent of total sales.)
+
+Please refer to the Breakeven Analysis Spreadsheet.
+
+Include all assumptions upon which your breakeven calculation is based.
+
+Appendices
+Following is a list of all the spreadsheets required in this business plan in order of appearance:
+Name of spreadsheet	Filename
+12-month Sales Forecast	TBD
+Personal Finance Statement	TBD
+Startup Expenses	TBD
+12-month Profit and Loss	TBD
+4-year Profit projection	TBD
+12-Month Cash Flow 	TBD
+Opening Day Balance Sheet	TBD
+Breakeven Analysis	TBD
+
+Include details & studies used in your Business Plan; for example:
+Brochures & advertising materials
+Industry studies
+Blueprints & plans
+Maps & photos of location
+Magazine or other articles
+Detailed lists of equipment owned or to be purchased
+Copies of leases & contracts
+Letters of support from future customers
+Any other materials needed to support the assumptions in this plan
+Market research studies
+List of assets available as collateral for a loan
+
+
+Refining the Plan
+The generic business plan presented above should be modified to suit your specific type of business and the audience for which the plan is written.
+
+For Raising Capital
+
+For Bankers
+Bankers want assurance of orderly repayment. If you intend using this plan to present to lenders, include:
+Amount of loan
+How the funds will be used
+What will this accomplish (how will it make the business stronger?)
+Requested repayment terms (number of years to repay). You will probably not have much negotiating room on interest rate, but may be able to negotiate a longer repayment term, which will help cash flow.
+Collateral offered, and list of all existing liens against collateral
+
+For Investors
+Investors have a different perspective. They are looking for dramatic growth, and they expect to share in the rewards.
+Funds needed short term
+Funds needed in 2 to 5 years
+How company will use funds, and what this will accomplish for growth.
+Estimated return on investment
+Exit strategy for investors (buyback, sale, or IPO)
+Percent of ownership you will give up to investors
+Milestones or conditions you will accept
+Financial reporting to be provided
+Involvement of investors on the Board or in management
+
+Refine for type of business
+
+High Technology Companies
+Economic outlook for the industry.
+Will the company have info systems in place to manage rapidly changing prices, costs, and markets?
+Will you be on the cutting edge with your products and services?
+What is the status of R&D? And what is required to:
+1.	Bring product/service to market?
+2.	Keep the company competitive?
+How does the company:
+1.	Protect intellectual property?
+2.	Avoid technological obsolescence?
+3.	Supply necessary capital?
+4.	Retain key personnel?
+
+High tech companies sometimes have to operate for a long time without profits, and sometimes even without sales. If this fits you, then banker probably will not want to lend to you. Venture capitalists may invest, but your story must be very good. You must do longer term financial forecasts to show when profit take-off is expected occur. And your assumptions must be well documented and well argued.

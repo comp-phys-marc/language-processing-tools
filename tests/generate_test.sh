@@ -1,0 +1,1 @@
+python ../generate.py --input_files=training_data/4/0.txt,training_data/4/1.txt,training_data/4/2.txt,training_data/4/3.txt --sentence_seeds=When\ you\ express,Where\ would\ you --name=test --persist=1 --output_file=generated.txt --output_file=generated.txt
